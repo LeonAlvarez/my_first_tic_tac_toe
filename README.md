@@ -13,4 +13,4 @@ My first Tic Tac Toe program. I welcome any code reviews and pull requests!
 
 ...
 
-(This project is a joke.)
+(This project is not a joke.)
